@@ -1,5 +1,5 @@
-                                                                     ### 👋 Hi there 👋
-                                                                      I'm Anna Cousin!
+                                                                      👋 Hi there 👋
+                                                                     I'm Anna Cousin!
 
                                                                  I'm a Front-End developer 💻 
 

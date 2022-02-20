@@ -28,8 +28,9 @@ I love to create apps with Vue.js and Angular.
 ![npm](https://user-images.githubusercontent.com/85175192/154857295-8f821e91-108c-4784-89ff-56f2dadee534.png)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?anna97490=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+## Github Stats 📊:
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anna97490)](https://github.com/anna97490/github-readme-stats)
+
+[![Les Stats GitHub de AnnaCousin](https://github-readme-stats.vercel.app/api?username=anna97490)](https://github.com/anna97490/github-readme-stats)
+

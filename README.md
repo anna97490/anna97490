@@ -1,16 +1,15 @@
-                                        👋  Hi there  👋 
-                                        I'm Anna Cousin!
-                              I'm a Junior Front-End Deveveloper 💻 
-                              
-                              
-I love to create apps with Vue.js and Angular
- Hi there
-But above all, I love to learn more and more.
+## Hi there  👋 
+I'm Anna Cousin!
 
-Contact me:
+I'm a Junior Front-End Deveveloper 💻 
+
+I love to create apps with Vue.js and Angular.
+
+## Contact me:
 [Linkedin](https://www.linkedin.com/in/anna-cousin-5a2012138/) 
 
-- ⚡ Technical Skills:
+
+## Technical Skills:
 
 ![html](https://user-images.githubusercontent.com/85175192/154856727-a6a451ef-1afa-46e8-a20d-822a390850d2.png)
 ![css](https://user-images.githubusercontent.com/85175192/154856785-94e4cc81-44cd-4f8c-9c7b-b1d8480ace86.png)
@@ -28,6 +27,8 @@ Contact me:
 ![vscode](https://user-images.githubusercontent.com/85175192/154857275-118ea9db-9563-472c-bc61-c49d347fb5b7.png)
 ![npm](https://user-images.githubusercontent.com/85175192/154857295-8f821e91-108c-4784-89ff-56f2dadee534.png)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?anna97490=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...

@@ -7,8 +7,8 @@
  Hi there
 But above all, I love to learn more and more.
 
--  Contact me:
--  [Linkedin](https://www.linkedin.com/in/anna-cousin-5a2012138/) 
+Contact me:
+[Linkedin](https://www.linkedin.com/in/anna-cousin-5a2012138/) 
 
 - ⚡ Technical Skills:
 

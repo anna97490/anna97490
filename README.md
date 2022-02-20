@@ -1,7 +1,4 @@
-                                                                      👋 Hi there 👋
-                                                                     I'm Anna Cousin!
 
-                                                                 I'm a Front-End developer 💻 
 I love to create apps with Vue.js and Angular
  Hi there
 But above all, I love to learn more and more.
